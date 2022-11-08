@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Kafka Stream**
 
-- 👨‍💻 All of my projects are available at (coming soon) [https://javiermansilla.com](https://javiermansilla.com)
+- 👨‍💻 All of my projects are available at (coming soon)
 
 - 💬 Ask me about **Python, Fast API, NLP, Web development**
 
