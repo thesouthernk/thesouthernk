@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Krino](https://krino.ai)
 
-- 🌱 I’m currently learning **Java and Kafka Stream**
+- 🌱 I’m currently learning **Celery**
 
 - 👨‍💻 All of my projects are available at (coming soon)
 
