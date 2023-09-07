@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javier Mansilla</h1>
-<h3 align="center">Self Taught developer, proactive and business tech driving. I Dedicated my whole career developing different's SaaS Software for startups and enterprise companies the most included features powered by AI.</h3>
+<h3 align="center">Self-taught developer. Proactive tech professional and business leader. I've been developing Software as a Service (SaaS) for startups and enterprise companies that use AI features.</h3>
 
 - 🔭 I’m currently working on [Krino](https://krino.ai)
 
 - 🌱 I’m currently learning **Celery**
-
-- 👨‍💻 All of my projects are available at (coming soon)
 
 - 💬 Ask me about **Python, Fast API, NLP, Web development**
 
