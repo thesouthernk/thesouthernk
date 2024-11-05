@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Krino](https://krino.ai)
 
-- 🌱 I’m currently learning **Celery**
-
-- 💬 Ask me about **Python, Fast API, NLP, Web development**
+- 💬 Ask me about **Python, Fast API, NLP, LLM's and Web development**
 
 - 📫 How to reach me **jmansillamo@gmail.com**
 
