@@ -2,7 +2,7 @@
 <h3 align="center">Self-taught developer & tech entrepreneur — building AI-powered SaaS from zero to scale</h3>
 
 - 🚀 Founder & CTO at [Krino](https://krino.ai) — building an AI Agent Workforce platform that helps companies automate CRM, sales engagement and customer service through conversational intelligence.  
-- 🧬 Creator of [SmartGluco]([https://smartgluco.ai](https://smartglucotech.com/)) — an AI-driven healthtech app integrating glucose sensors, meal logging and insulin tracking to improve diabetes management.  
+- 🧬 Creator of [SmartGluco](https://smartglucotech.com/) — an AI-driven healthtech app integrating glucose sensors, meal logging and insulin tracking to improve diabetes management.  
 - 🌍 I build high-impact SaaS products for startups and enterprise companies, combining deep technical expertise with a strong product vision.  
 - 💬 Ask me about **AI agents, multi-agent architectures, LLMs, product strategy and scaling SaaS platforms**  
 - 📫 How to reach me: **jmansillamo@gmail.com**
